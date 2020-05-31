@@ -1,6 +1,7 @@
 # Autojs-
 ##利用autojs自动完成腾讯视频会员的每日任务
 
+
 ####由于不同版本的腾讯视频的按钮id是不一样的，所以要腾讯视频版本一定要对得上【如果版本更新了我会抽空适配或者有能力的自己改一下】
 
 ####2020-5-31腾讯视频自动完成任务2.0更新内容：   
@@ -13,3 +14,6 @@
 奶牛快传： https://c-t.work/s/cca9f6ddd0ad4f  
 蓝奏云 https://kenwu.lanzous.com/b06rx1fzi   密码:6nkf    【蓝奏云上传不了js文件，所以这里面没有js文件。。】  
 文叔叔 https://ws28.cn/f/2nqxy0k4c4n  
+
+首发于吾爱破解论坛  
+https://www.52pojie.cn/thread-1189477-1-1.html
